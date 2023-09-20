@@ -3,7 +3,7 @@
 # Using Helm for parameterized deployment
 #
 
-name: CD Release - AKS
+name: CD Release - AKS123
 
 on:
   workflow_dispatch:
