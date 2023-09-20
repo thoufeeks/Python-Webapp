@@ -1,4 +1,4 @@
-name: Release Versioned Image
+name: Release Versioned Imager
 
 on:
   release:
